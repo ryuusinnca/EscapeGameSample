@@ -1,0 +1,10 @@
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/UnityEngine.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/UnityEditor.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/Mono.Cecil.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/nunit.framework.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/Unity.DataContract.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Applications/workspace/EscapeGameSample/EscapeGameSample/Temp/bin/Debug/Assembly-CSharp.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/obj/Debug/Assembly-CSharp.dll
+/Applications/workspace/EscapeGameSample/EscapeGameSample/obj/Debug/Assembly-CSharp.dll.mdb
